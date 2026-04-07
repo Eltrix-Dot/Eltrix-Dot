@@ -1,66 +1,73 @@
-# Hi there, I'm Eltrix 👋
-
 <div align="center">
 
-**Python Developer | Discord Tooling Enthusiast | Game Creator**
+# 🚀 Welcome to Eltrix's Workspace
 
-I focus on building functional Python applications, Discord bots, and exploring game development.
+[![Python Version](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-3.1-blue?style=for-the-badge)](https://github.com/Eltrix-Dot)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/Eltrix-Dot)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xkygDEcZxm)
 
-<a href="https://github.com/Eltrix-Dot?tab=followers">
-  <img alt="Followers" src="https://img.shields.io/github/followers/Eltrix-Dot?label=Followers&style=flat-square" />
-</a>
-<a href="https://github.com/Eltrix-Dot">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Eltrix-Dot?style=flat-square&label=Stars" />
-</a>
+**Developer focused on Python tooling, community-driven Discord bots, and pixel-art game design.**
 
 ---
 
-[<img alt="Proton Mail" src="https://img.shields.io/badge/Proton-Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:Eltrix.publix@protonmail.com)
-[<img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/xkygDEcZxm)
+[Portfolio](https://eltrix-dot.github.io/) • [Projects](#-featured-projects) • [Contact](#-get-in-touch)
+
+</div>
+
+## 🛠️ Tech Stack & Skills
+
+* **Primary:** Python (Discord.py), HTML5, CSS3
+* **Tools:** Git, GitHub Actions, Linux
+* **Specialties:** Automation, Ticket Management Systems, 2D Game Development
+
+---
+
+## 🌟 Featured Projects
+
+### [Eltrix-Discord.bot](https://github.com/Eltrix-Dot/Eltrix-Discord.bot)
+A feature-rich bot designed for high-performance server management.
+* **Features:** Advanced moderation, leveling system, and 70+ custom commands.
+* **Tech:** Python 3.12, Discord.py
+
+### [Ticketer](https://github.com/Eltrix-Dot)
+A professional-grade ticketing solution built to provide a seamless support experience.
+* **Status:** Private Repository (In Development)
+* **Goal:** A streamlined alternative to industry-standard ticket tools.
+
+### [Swimpely](https://github.com/Eltrix-Dot)
+A unique 2D exploration game featuring a custom-made pixel-art world.
+* **Focus:** Exploration, pixel-perfect physics, and immersive atmosphere.
+
+---
+
+## 📊 GitHub Ecosystem
+
+<div align="center">
+
+| Project | Category | Status |
+| :--- | :--- | :--- |
+| **Eltrix Bot** | Discord / Tooling | `Live` |
+| **Ticketer** | Management / UI | `Beta` |
+| **Swimpely** | Game Dev / Art | `Active` |
+| **Portfolio** | Web / Static | `Updated` |
+
+<br>
+
+![Eltrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eltrix-Dot&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eltrix-Dot&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-> Projects I am actively building under the **PPFE** (Personal Projects For Ever) philosophy.
-
-### [Eltrix-Discord.bot](https://github.com/Eltrix-Dot/Eltrix-Discord.bot)
-A comprehensive Python-based Discord bot designed for high-performance community management.
-* **Features:** Economy system, Leveling, Advanced Moderation, and Tickets.
-* **Tech:** Python, Discord.py
-* **License:** MIT
-
-### [Ticketer](https://github.com/Eltrix-Dot) (Private | Coming Soon)
-A specialized ticketing tool designed to compete with industry standards like Ticket Tool, focusing on ease of use and deep customization.
-
-### [Swimpely](https://github.com/Eltrix-Dot)
-A 2D exploration game built with a charming pixel-art style. Currently in active development.
-
-### [Eltrix-Dot.github.io](https://github.com/Eltrix-Dot/Eltrix-Dot.github.io)
-My personal corner of the web. Built with clean HTML to showcase my portfolio and progress.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-* **Languages:** Python, HTML, CSS
-* **Frameworks:** Discord.py
-* **Interests:** Automation, Community Tooling, Pixel Art, Game Design
-
----
-
-## 📈 Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Eltrix-Dot&show_icons=true&theme=radical" alt="Eltrix-Dot's GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eltrix-Dot&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
-
----
-
-## 📫 Let's Connect
+## 📫 Get in Touch
 
 * **Email:** [Eltrix.publix@protonmail.com](mailto:Eltrix.publix@protonmail.com)
-* **Discord:** [Join my server](https://discord.gg/xkygDEcZxm)
+* **Discord:** [Join the Community](https://discord.gg/xkygDEcZxm)
+
+---
+<p align="center">
+  <i>Part of the PPFE (Personal Projects For Ever) Initiative.</i>
+</p>
