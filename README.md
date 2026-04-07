@@ -32,7 +32,7 @@ A comprehensive Python-based Discord bot designed for high-performance community
 * **Tech:** Python, Discord.py
 * **License:** MIT
 
-### [Ticketer](https://github.com/Eltrix-Dot) (Private)
+### [Ticketer](https://github.com/Eltrix-Dot) (Private | Coming Soon)
 A specialized ticketing tool designed to compete with industry standards like Ticket Tool, focusing on ease of use and deep customization.
 
 ### [Swimpely](https://github.com/Eltrix-Dot)
