@@ -17,8 +17,8 @@
 ## 🛠️ Tech Stack & Skills
 
 * **Primary:** Python (Discord.py), HTML5, CSS3
-* **Tools:** Git, GitHub Actions, Linux
-* **Specialties:** Automation, Ticket Management Systems, 2D Game Development
+* **Tools:** Git, GitHub Actions, Windows, VS code, VS Studio
+* **Specialties:** Automation, Ticket Management Systems,Discord bots, 2D Game Development
 
 ---
 
