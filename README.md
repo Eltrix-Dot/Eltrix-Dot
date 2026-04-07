@@ -3,7 +3,6 @@
 # 🚀 Welcome to Eltrix's Workspace
 
 [![Python Version](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Version](https://img.shields.io/badge/Version-3.1-blue?style=for-the-badge)](https://github.com/Eltrix-Dot)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/Eltrix-Dot)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xkygDEcZxm)
 
