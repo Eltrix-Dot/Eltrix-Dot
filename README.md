@@ -56,7 +56,7 @@ A unique 2D exploration game featuring a custom-made pixel-art world.
 
 ## 📫 Get in Touch
 
-* **Email:** [Eltrix.publix@protonmail.com](mailto:Eltrix.publix@protonmail.com)
+* **Email:** [Eltrix.public@protonmail.com](mailto:Eltrix.public@protonmail.com)
 * **Discord:** [Join the Community](https://discord.gg/xkygDEcZxm)
 
 ---
