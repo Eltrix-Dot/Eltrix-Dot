@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack & Skills
 
 * **Primary:** Python (Discord.py), HTML5, CSS3
-* **Tools:** Git, GitHub Actions, Windows, VS code, VS Studio
+* **Tools:** Git, GitHub Actions, Windows, VS code, VS Studio, Godot
 * **Specialties:** Automation, Ticket Management Systems,Discord bots, 2D Game Development
 
 ---
@@ -35,7 +35,7 @@ A professional-grade ticketing solution built to provide a seamless support expe
 * **Goal:** A streamlined alternative to industry-standard ticket tools.
 
 ### [Swimpely](https://github.com/Eltrix-Dot)
-A unique 2D exploration game featuring a custom-made pixel-art world.
+A unique 2D exploration game featuring a custom-made pixel-art world. (Early stage of Development)
 * **Focus:** Exploration, pixel-perfect physics, and immersive atmosphere.
 
 ---
