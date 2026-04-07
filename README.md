@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/Eltrix-Dot)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xkygDEcZxm)
 
-**Developer focused on Python tooling, community-driven Discord bots, and pixel-art game design.**
+**Developer focused on Python tooling, Making Open-Source Discord bots, and pixel-art game design.**
 
 ---
 
