@@ -48,15 +48,9 @@ A unique 2D exploration game featuring a custom-made pixel-art world.
 | :--- | :--- | :--- |
 | **Eltrix Bot** | Discord / Tooling | `Live` |
 | **Ticketer** | Management / UI | `Beta` |
-| **Swimpely** | Game Dev / Art | `Active` |
+| **Swimpely** | Game Dev / Art | `Started` |
 | **Portfolio** | Web / Static | `Updated` |
 
-<br>
-
-![Eltrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eltrix-Dot&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eltrix-Dot&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
