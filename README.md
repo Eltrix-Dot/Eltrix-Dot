@@ -3,10 +3,11 @@
 # 🚀 Welcome to Eltrix's Workspace
 
 [![Python Version](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![White Hat](https://img.shields.io/badge/Ethical_Hacker-White_Hat-white?style=for-the-badge&logo=target&logoColor=black)](https://github.com/Eltrix-Dot)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/Eltrix-Dot)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xkygDEcZxm)
 
-**Developer focused on Python tooling, Making Open-Source Discord bots, and pixel-art game design.**
+**Developer focused on Python tooling, Open-Source Discord bots, and pixel-art game design.**
 
 ---
 
@@ -17,8 +18,9 @@
 ## 🛠️ Tech Stack & Skills
 
 * **Primary:** Python (Discord.py), HTML5, CSS3
-* **Tools:** Git, GitHub Actions, Windows, VS code, VS Studio, Godot
-* **Specialties:** Automation, Ticket Management Systems,Discord bots, 2D Game Development
+* **Cybersecurity:** Network Scanning (Kali Linux), Vulnerability Assessment (Wapiti, Nuclei), Ethical Pentesting
+* **Tools:** Git, GitHub Actions, Linux (Kali), Windows, VS Code, Godot
+* **Specialties:** Automation, Ticket Management Systems, Discord bots, 2D Game Development
 
 ---
 
@@ -40,6 +42,13 @@ A unique 2D exploration game featuring a custom-made pixel-art world. (Early sta
 
 ---
 
+## 🛡️ Security & Ethical Research
+As a **White Hat** enthusiast, I focus on building secure software and understanding the defensive side of cybersecurity.
+* **Responsible Disclosure:** Committed to finding and reporting vulnerabilities to help make the web safer.
+* **Focus Areas:** Web Application Security, API Protection, and Bot-based Defense mechanisms.
+
+---
+
 ## 📊 GitHub Ecosystem
 
 <div align="center">
@@ -49,8 +58,9 @@ A unique 2D exploration game featuring a custom-made pixel-art world. (Early sta
 | **Eltrix Bot** | Discord / Tooling | `Live` |
 | **Ticketer** | Management / UI | `Beta` |
 | **Swimpely** | Game Dev / Art | `Started` |
-| **Portfolio** | Web / Static | `Updated` |
+| **Security Labs** | Pentesting / White Hat | `Ongoing` |
 
+</div>
 
 ---
 
