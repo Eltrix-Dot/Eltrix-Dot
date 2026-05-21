@@ -3,8 +3,8 @@
 # 🚀 Welcome to Eltrix's Workspace
 
 [![Python Version](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![White Hat](https://img.shields.io/badge/Ethical_Hacker-White_Hat-white?style=for-the-badge&logo=target&logoColor=black)](https://github.com/Eltrix-Dot)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/Eltrix-Dot)
+[![White Hat](https://img.shields.io/badge/White_Hat-white?style=for-the-badge&logo=target&logoColor=black)](https://github.com/Eltrix-Dot)
+[![Status](https://img.shields.io/badge/Status-On A Break-brightgreen?style=for-the-badge)](https://github.com/Eltrix-Dot)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xkygDEcZxm)
 
 **Developer focused on Python tooling, Open-Source Discord bots, and pixel-art game design.**
