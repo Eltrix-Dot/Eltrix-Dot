@@ -64,5 +64,5 @@ A unique 2D exploration game featuring a custom-made pixel-art world. (Early sta
   <i>Part of the PPFE (Personal Projects For Ever) Initiative.</i>
 </p>
 <p align="center">
-<i>Part of the OPSF (Open Source For Ever) Initiative</i>
+<i>Part of the OSFE (Open Source For Ever) Initiative</i>
 </p>
