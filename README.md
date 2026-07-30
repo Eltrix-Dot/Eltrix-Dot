@@ -39,14 +39,6 @@ A professional-grade ticketing solution built to provide a seamless support expe
 A unique 2D exploration game featuring a custom-made pixel-art world. (Early stage of Development)
 * **Focus:** Exploration, pixel-perfect physics, and immersive atmosphere.
 
----
-
-## 🛡️ Security & Ethical Research
-As a **White Hat** enthusiast, I focus on building secure software and understanding the defensive side of cybersecurity.
-* **Responsible Disclosure:** Committed to finding and reporting vulnerabilities to help make the web safer.
-* **Focus Areas:** Web Application Security, API Protection, and Bot-based Defense mechanisms.
-
----
 
 ## 📊 GitHub Ecosystem
 
@@ -57,7 +49,6 @@ As a **White Hat** enthusiast, I focus on building secure software and understan
 | **Eltrix Bot** | Discord / Tooling | `Live` |
 | **Ticketer** | Management / UI | `Beta` |
 | **Swimpely** | Game Dev / Art | `Started` |
-| **Security Labs** | Pentesting / White Hat | `Ongoing` |
 
 </div>
 
