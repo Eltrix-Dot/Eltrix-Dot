@@ -17,7 +17,6 @@
 ## 🛠️ Tech Stack & Skills
 
 * **Primary:** Python (Discord.py), HTML5, CSS3
-* **Cybersecurity:** Network Scanning (Kali Linux), Vulnerability Assessment (Wapiti, Nuclei), Ethical Pentesting
 * **Tools:** Git, GitHub Actions, Linux (Kali), Windows, VS Code, Godot
 * **Specialties:** Automation, Ticket Management Systems, Discord bots, 2D Game Development
 
