@@ -65,3 +65,6 @@ A unique 2D exploration game featuring a custom-made pixel-art world. (Early sta
 <p align="center">
 <i>Part of the OSFE (Open Source For Ever) Initiative</i>
 </p>
+
+Copyright to Eltrix-Dot.
+
